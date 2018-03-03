@@ -1,0 +1,108 @@
+{
+    "About Me": {
+      "Name": "Joe Tseng",
+      "Address": "456 N. Patuxent Rd",
+      "City": "Odenton",
+      "State": "MD",
+      "ZIP": "21113",
+      "Phone": {
+        "Mobile": "240-606-6013"
+      },
+      "Emails": [
+        "jtsengorg@gmail.com"
+      ],
+      "Links": [
+        "https://github.com/goterpsgo",
+        "https://www.linkedin.com/in/goterpsgo/"
+      ],
+      "Goal": "Veteran software engineer, analyst and system administrator, experienced in multiple phases of web-based software development; demonstrable ability to design and generate software and relational database designs working with customer needs and requirements.  Seeking a new opportunity as a senior-level full stack developer creating enterprise-class applications and/or facilitating enterprise-level systems integrations/ETL projects.",
+      "Summary": "Accomplishments include release of a turnkey product for processing software/system/network vulnerability data, ETL scripts for data transformation in complex environments, and management and tracking of hardware and software assets for data center operations."
+    },
+    "Education": [
+      {
+        "Institution": "University of Maryland, University College",
+        "Year Graduated": "2003",
+        "Degree": "MS",
+        "Area of Study": "MIS"
+      },
+      {
+        "Institution": "University of Maryland, College Park",
+        "Year Graduated": "1994",
+        "Degree": "BS",
+        "Area of Study": "Zoology"
+      }
+    ],
+    "Training": [
+      {
+        "Title": "CFUnited Conference",
+        "Year": "2009"
+      },
+      {
+        "Title": "Python for Programmers",
+        "Year": "2008",
+        "Vendor": "Holden Web"
+      },
+      {
+        "Title": "Cisco CCNA Bootcamp",
+        "Year": "2006",
+        "Vendor": "Skyline"
+      },
+      {
+        "Title": "WebLogic Workshop 8.1",
+        "Year": "2004",
+        "Vendor": "BEA"
+      }
+    ],
+    "Experience": {
+      "Languages": [
+        "Javascript (inc. ES6)",
+        "Python 2.7",
+        "PHP 5.x",
+        "SQL",
+        "CSS",
+        "shell scripting",
+        "Perl 5.x"
+      ],
+      "Frameworks": [
+        "Rails/ActiveRecord",
+        "Flask/SQLAlchemy",
+        "CodeIgnitor/ActiveRecord",
+        "Express/Sequelize"
+      ],
+      "Development Tools": [
+        "Jetbrains (RubyMine, PyCharm, WebStorm, PHPStorm)",
+        "git (w/Git Extensions, TortoiseGit)",
+        "pgAdmin v3.x",
+        "VS Code"
+      ],
+      "Application Servers": [
+        "uwsgi",
+        "puma",
+        "Tomcat",
+        "ColdFusion"
+      ],
+      "Web Servers": [
+        "nginx",
+        "Apache (v2.x)",
+        "IIS"
+      ],
+      "Databases": [
+        "Postgresql (v9.x)",
+        "MySQL (v5.x)",
+        "MSSQL",
+        "neo4j",
+        "MongoDB"
+      ]
+    },
+    "Employment History": [
+      {
+        "Employer": "",
+        "Title": "",
+        "Location": "",
+        "Start": "",
+        "End": "",
+        "Details": [],
+        "Accomplishments": []
+      }
+    ]
+  }
